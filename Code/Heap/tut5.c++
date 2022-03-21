@@ -13,7 +13,9 @@ int main()
     6. K-th Largest Sum Subarray [https://bit.ly/3tdXxqp]
     7. Merge K Sorted Arrays [https://bit.ly/3tfScz3]
     8. Merge K sorted Linked Lists [https://bit.ly/3qaYpu1]
-
+    9. Median in a Stream [https://bit.ly/36yf8Au]
+    10. Smallest Range in K sorted List [https://bit.ly/37QNWOp]
+    11. Reorganize String [https://leetcode.com/problems/reorganize-string/]
     */
 
     return 0;
