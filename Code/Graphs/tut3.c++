@@ -13,6 +13,7 @@ int main()
     6. Topological Sort [https://bit.ly/3M9mM4t]
     7. Shortest Path in Undirected Graph [https://bit.ly/3laHwwR]
     8. Dijkstra's Algorithm [https://bit.ly/3FKeldj]
+    9. Prim's Algo [https://bit.ly/3axYOSF]
     */
 
     return 0;
