@@ -14,6 +14,7 @@ int main()
     7. Shortest Path in Undirected Graph [https://bit.ly/3laHwwR]
     8. Dijkstra's Algorithm [https://bit.ly/3FKeldj]
     9. Prim's Algo [https://bit.ly/3axYOSF]
+    10. Kruskal's Algo for MST [https://bit.ly/3PSrbLd]
     */
 
     return 0;
