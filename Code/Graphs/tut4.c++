@@ -15,6 +15,10 @@ int main()
     8. Dijkstra's Algorithm [https://bit.ly/3FKeldj]
     9. Prim's Algo [https://bit.ly/3axYOSF]
     10. Kruskal's Algo for MST [https://bit.ly/3PSrbLd]
+    11. Bridges in a Graph [https://bit.ly/3a4Aqrl]
+    12.
+    13.
+
     */
 
     return 0;
