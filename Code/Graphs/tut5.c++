@@ -16,7 +16,8 @@ int main()
     9. Prim's Algo [https://bit.ly/3axYOSF]
     10. Kruskal's Algo for MST [https://bit.ly/3PSrbLd]
     11. Bridges in a Graph [https://bit.ly/3a4Aqrl]
-    12.
+    12. Kosaraju's Algorithm [https://bit.ly/3zhQrVi]
+    13. Bellman Ford Algorithm [https://bit.ly/3xhathv]
     */
 
     return 0;
