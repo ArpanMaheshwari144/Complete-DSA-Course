@@ -12,12 +12,12 @@ int main()
     5. Cycle Detection in directed graphs [https://bit.ly/3Pa72Qy]
     6. Topological Sort [https://bit.ly/3M9mM4t]
     7. Shortest Path in Undirected Graph [https://bit.ly/3laHwwR]
-    8. Dijkstra's Algorithm [https://bit.ly/3FKeldj]
+    8. Dijkstra's Algorithm [https://bit.ly/3FKeldj] (Shortest Path finding algo only in positive weight graphs)
     9. Prim's Algo [https://bit.ly/3axYOSF]
     10. Kruskal's Algo for MST [https://bit.ly/3PSrbLd]
     11. Bridges in a Graph [https://bit.ly/3a4Aqrl]
     12. Kosaraju's Algorithm [https://bit.ly/3zhQrVi]
-    13. Bellman Ford Algorithm [https://bit.ly/3xhathv]
+    13. Bellman Ford Algorithm [https://bit.ly/3xhathv] (Shortest Path finding algo in a positive and negative weight graphs)
     */
 
     return 0;
