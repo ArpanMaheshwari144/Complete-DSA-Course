@@ -14,6 +14,7 @@ int main()
     5. House Robber II [https://bit.ly/3mQiALZ]
     6. Cut into Segments [https://bit.ly/3b5w97E]
     7. Count Derangements [https://bit.ly/3tERn2A]
+    8. Painting Fence Algorithm [https://bit.ly/3mZwLhP]
     */
 
     return 0;
