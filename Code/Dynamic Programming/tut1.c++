@@ -15,6 +15,10 @@ int main()
     6. Cut into Segments [https://bit.ly/3b5w97E]
     7. Count Derangements [https://bit.ly/3tERn2A]
     8. Painting Fence Algorithm [https://bit.ly/3mZwLhP]
+    9. 0/1 KnapSack Problem [https://bit.ly/3xXznBV]
+    10. Combination Sum IV [https://bit.ly/3noyw8x]
+    11. Get Minimum Squares [https://practice.geeksforgeeks.org/problems/get-minimum-squares0538/1/]
+    12. Min Cost for Tickets [https://bit.ly/3yyhJGa]
     */
 
     return 0;
