@@ -19,6 +19,10 @@ int main()
     10. Combination Sum IV [https://bit.ly/3noyw8x]
     11. Get Minimum Squares [https://practice.geeksforgeeks.org/problems/get-minimum-squares0538/1/]
     12. Min Cost for Tickets [https://bit.ly/3yyhJGa]
+    13. Largest square formed in a matrix [https://bit.ly/3PtBZys]
+    14. Minimum Score Triangulation of Polygon [https://bit.ly/3RIsSMu]
+    15. Min Sideways Jump [https://leetcode.com/problems/minimum-sideway-jumps/]
+    16. Reducing Dishes [https://leetcode.com/problems/reducing-dishes/]
     */
 
     return 0;
