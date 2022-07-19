@@ -23,6 +23,10 @@ int main()
     14. Minimum Score Triangulation of Polygon [https://bit.ly/3RIsSMu]
     15. Min Sideways Jump [https://leetcode.com/problems/minimum-sideway-jumps/]
     16. Reducing Dishes [https://leetcode.com/problems/reducing-dishes/]
+    17. Longest Increasing Subsequence [https://bit.ly/3uYMgLf]
+    18. Russian Doll Envelopes [https://leetcode.com/problems/russian-doll-envelopes/]
+    19. Maximum Height by Stacking Cuboids [https://bit.ly/3PHoOdA]
+    20. Pizza With 3n Slices [https://leetcode.com/problems/pizza-with-3n-slices/]
     */
 
     return 0;
