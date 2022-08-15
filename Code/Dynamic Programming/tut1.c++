@@ -27,6 +27,9 @@ int main()
     18. Russian Doll Envelopes [https://leetcode.com/problems/russian-doll-envelopes/]
     19. Maximum Height by Stacking Cuboids [https://bit.ly/3PHoOdA]
     20. Pizza With 3n Slices [https://leetcode.com/problems/pizza-with-3n-slices/]
+    21. Dice throw [https://practice.geeksforgeeks.org/problems/dice-throw5349/1]
+    22. Partition Equal Subset Sum [https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1]
+    23. Minimum Swaps To Make Sequences Increasing [https://bit.ly/3aYl88o]
     */
 
     return 0;
