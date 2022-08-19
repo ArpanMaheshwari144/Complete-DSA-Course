@@ -42,7 +42,9 @@ int main()
     33. Best Time to Buy and Sell Stock with Transaction Fee [https://bit.ly/3dvs7GG]
     34. Longest Common Subsequence [https://leetcode.com/problems/longest-common-subsequence/]
     35. Longest Palindromic Subsequence [https://leetcode.com/problems/longest-palindromic-subsequence/]
-
+    36. Edit Distance [https://leetcode.com/problems/edit-distance/]
+    37. Maximum Rectangle with all 1's [https://leetcode.com/problems/maximal-rectangle/]
+    38. Wildcard Pattern Matching [https://leetcode.com/problems/wildcard-matching/]
     */
 
     return 0;
