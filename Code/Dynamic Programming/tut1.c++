@@ -39,9 +39,9 @@ int main()
     30. Best Time to Buy and Sell Stock II [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/]
     31. Best Time to Buy and Sell Stock III [https://bit.ly/3dAxu7z]
     32. Best Time to Buy and Sell Stock IV [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/]
-    33.
-    34.
-    35.
+    33. Best Time to Buy and Sell Stock with Transaction Fee [https://bit.ly/3dvs7GG]
+    34. Longest Common Subsequence [https://leetcode.com/problems/longest-common-subsequence/]
+    35. Longest Palindromic Subsequence [https://leetcode.com/problems/longest-palindromic-subsequence/]
 
     */
 
