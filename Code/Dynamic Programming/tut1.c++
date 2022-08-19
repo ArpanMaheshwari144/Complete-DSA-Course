@@ -30,6 +30,19 @@ int main()
     21. Dice throw [https://practice.geeksforgeeks.org/problems/dice-throw5349/1]
     22. Partition Equal Subset Sum [https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1]
     23. Minimum Swaps To Make Sequences Increasing [https://bit.ly/3aYl88o]
+    24. Longest Arithmetic Progression [https://bit.ly/3Cb2q8C]
+    25. Longest Arithmetic Subsequence of Given Difference [https://bit.ly/3CdB0zc]
+    26. Unique Binary Search Trees [https://leetcode.com/problems/unique-binary-search-trees/]
+    27. Guess Number Higher or Lower II [https://leetcode.com/problems/guess-number-higher-or-lower-ii/]
+    28. Minimum Cost Tree From Leaf Values [https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/]
+    29. Buy and Sell Stock [Part 1] [https://leetcode.com/problems/best-time-to-buy-and-sell-stock/]
+    30. Best Time to Buy and Sell Stock II [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/]
+    31. Best Time to Buy and Sell Stock III [https://bit.ly/3dAxu7z]
+    32. Best Time to Buy and Sell Stock IV [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/]
+    33.
+    34.
+    35.
+
     */
 
     return 0;
