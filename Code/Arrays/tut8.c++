@@ -11,12 +11,13 @@ int main()
     4. Pair Sum [https://bit.ly/3rsDMLr]
     5. Triplet sum [https://bit.ly/3GbgVs3]
     6. Sort 0 1 2 [https://bit.ly/3DfQW0s]
-    7. Reverse an Array [https://bit.ly/3EOyAFz] 
+    7. Reverse an Array [https://bit.ly/3EOyAFz]
     8. Merge 2 sorted arrays [https://leetcode.com/problems/merge-sorted-array/]
     9. Move zeroes to end [https://leetcode.com/problems/move-zeroes/]
     10. Rotate arrays [https://leetcode.com/problems/rotate-array/]
     11. Check if rotated and sorted array [https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/]
-    12. Add arrays [https://bit.ly/3DXfsDZ] 
+    12. Add arrays [https://bit.ly/3DXfsDZ]
+    13. Maximum Subarray or Kadane's Algo [https://leetcode.com/problems/maximum-subarray/]
     */
 
     return 0;
